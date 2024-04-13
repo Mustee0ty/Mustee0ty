@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Mustee
-- 👀 I’m a frontend developer
-- 🌱 I’m currently learning React-Native
 - 📫 Contact me at mustaphatasiu55@gmail.com
